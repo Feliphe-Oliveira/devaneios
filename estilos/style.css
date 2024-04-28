@@ -91,7 +91,7 @@ footer{
 }
 
 footer > a{
-    
+    font-family: var(--paragrafo);
     text-decoration: none;
     color: white;
    
