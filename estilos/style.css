@@ -82,3 +82,22 @@ div p{
     background-image: url(../imagens/Carolinda.png);
     background-position: center center;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+a{
+    font-family: var(--titulo2);
+    text-decoration: none;
+    color: white;
+   
+}
+
+a:hover{
+   
+    color: lightgray;
+}
