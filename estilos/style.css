@@ -90,14 +90,14 @@ footer{
     padding: 5px;
 }
 
-footer a{
+footer > a{
     
     text-decoration: none;
     color: white;
    
 }
 
-footer a:hover{
+footer > a:hover{
    
     color: lightgray;
 }
