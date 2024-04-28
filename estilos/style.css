@@ -80,4 +80,5 @@ div p{
 
 .imagem{
     background-image: url(../imagens/Carolinda.png);
+    background-position: center center;
 }
